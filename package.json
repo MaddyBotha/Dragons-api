@@ -1,0 +1,17 @@
+{
+  "name": "dragons-api",
+  "version": "1.0.0",
+  "description": "Dragons and wishlist api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MaddyB",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
